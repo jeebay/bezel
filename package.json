@@ -1,0 +1,18 @@
+{
+  "name": "bezel",
+  "version": "0.0.3",
+  "description": "Generate a project template based on Node, Express, Browserify, and React",
+  "keywords": [
+    "template",
+    "generate"
+  ],
+  "bin": {
+    "bezel": "./bin/bezel.js"
+    },
+  "author": "jeebay",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.8.1",
+    "ncp": "^2.0.0"
+  }
+}
